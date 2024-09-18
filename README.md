@@ -1,4 +1,4 @@
-# data-analyst-Kumudini
+# Portfolio Report- Animal Control Inventory-Kumudini Devi
 Project Description:
 
 This paper undertaking a descriptive analysis anemetic to the Animal Control Inventory Register 2024 with an aim of identifying the pattern and trend of one an animal control facility. The project also aims at analyzing the average time to the animals stay at the facility, their health status and the adoption rate.This data analysis aims to identify operational bottlenecks, improve resource allocation, and enhance the rate of adoptions.
